@@ -1,0 +1,8 @@
+Vivado Simulator v2020.3.0
+Time resolution is 1 ps
+                   0I=xxxx,S=x,Y=x
+                   5I=3f0a,S=0,Y=0
+                  10I=3f0a,S=1,Y=1
+                  15I=3f0a,S=6,Y=0
+                  20I=3f0a,S=c,Y=1
+$finish called at time : 25 ns : File "F:/Verilog/MUX_16x1/MUX_16x1.srcs/sim_1/new/mux_16x1_tb.v" Line 38
